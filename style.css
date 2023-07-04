@@ -262,7 +262,7 @@ footer {
 
 .grid div{
     margin: 0;
-    padding: 0;
+    padding: 10px;
     box-shadow: 1px 1px 5px 0px #000;
     /* border: 1px solid #0000002f; */
     border-radius: 10px;
