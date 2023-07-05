@@ -271,6 +271,11 @@ footer {
     font-weight: normal;
 }
 
+.grid h3{
+    font-size: 16px;
+
+}
+
 .grid p{
     font-size: 14px;
     text-align: left;
