@@ -297,7 +297,9 @@ footer {
     display: grid;
     justify-items: start;
 }
-
+.chars img{
+    box-shadow: 0 0 0 0;
+}
 a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
