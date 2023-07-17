@@ -293,7 +293,7 @@ footer {
 
 
 .chars{
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 1px 1px 5px 0px #000;
     display: grid;
     justify-items: center;
